@@ -31,15 +31,15 @@ const words = [
 ];
 
 const counterItems = [
-  { value: 4, suffix: "+", label: "Years of Learning & Coding", icon: "code" },
+  { value: 3, suffix: "+", label: "Years of Experience", icon: "code" },
   {
     value: 20,
     suffix: "+",
     label: "Personal & Academic Projects",
     icon: "laptop",
   },
-  { value: 8, suffix: "+", label: "Tech Stacks Explored", icon: "layers" },
-  { value: 4, suffix: "", label: "Team Projects Collaborated", icon: "users" },
+  { value: 4, suffix: "+", label: "Tech Stacks Explored", icon: "layers" },
+  { value: 5, suffix: "", label: "Team Projects Collaborated", icon: "users" },
 ];
 
 const logoIconsList = [
