@@ -2,7 +2,11 @@ import React from 'react'
 
 const ShowcaseSection = () => {
   return (
-    <div>ShowcaseSection</div>
+    <div id="work" className='app-showcase'>
+        <div className='w-full'>
+
+        </div>
+    </div>
   )
 }
 
