@@ -4,7 +4,7 @@ const ShowcaseSection = () => {
   return (
     <div id="work" className='app-showcase'>
         <div className='w-full'>
-          <h1>Works and projects</h1>
+          <h1>Work experience and projects</h1>
         </div>
     </div>
   )
